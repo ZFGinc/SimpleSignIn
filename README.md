@@ -29,6 +29,7 @@
 <p align = "center">
     <img src = "images/0-1.png">
     Рисунок 1 – Прототип макета
+    <br>
     <img src = "images/0-2.png">
     Рисунок 2 – Финальный макет
 </p>
